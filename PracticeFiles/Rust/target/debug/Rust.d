@@ -1,0 +1,1 @@
+C:\Users\7435393\Desktop\Classes\SeniorDesign\Project\TALA\TALA\PracticeFiles\Rust\target\debug\rust.exe: C:\Users\7435393\Desktop\Classes\SeniorDesign\Project\TALA\TALA\PracticeFiles\Rust\src\main.rs

@@ -1,5 +1,5 @@
 
-fname = "Project\\TALA\\juliaTEST\\test.txt"
+fname = "PracticeFiles\\Julia\\test.txt"
 
 open(fname, "r") do f
     for line in eachline(f)
@@ -9,7 +9,7 @@ end
 
 
 f = open(fname, "r")
-show(readlines(f));
+show(readlines(f)); 
 println();
 close(f)
 
